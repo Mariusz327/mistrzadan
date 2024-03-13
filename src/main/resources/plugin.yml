@@ -1,0 +1,6 @@
+name: mario_daily
+main: pl.mario.daily.DailyTaskPlugin
+version: 0.1
+api-version: 1.13
+commands:
+  daily:
